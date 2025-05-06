@@ -3,7 +3,7 @@
 .deps/
 /Makefile
 /Makefile.in
-/Makefile.am
+# /Makefile.am
 /aclocal.m4
 /configure
 # /configure.ac
